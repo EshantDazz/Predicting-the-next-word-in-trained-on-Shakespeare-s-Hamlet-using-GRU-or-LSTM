@@ -21,8 +21,7 @@ This project implements a next word prediction model using a Gated Recurrent Uni
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/next-word-prediction.git
-cd next-word-prediction
+git clone https://github.com/EshantDazz/Predicting-the-next-word-in-trained-on-Shakespeare-s-Hamlet-using-GRU-or-LSTM.git
 ```
 
 2. Create a virtual environment (recommended):
