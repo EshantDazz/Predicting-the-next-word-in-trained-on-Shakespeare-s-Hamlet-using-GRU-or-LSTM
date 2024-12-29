@@ -4,7 +4,7 @@ This project implements a next word prediction model using a Gated Recurrent Uni
 
 ## 🎥 Demo
 
-![ShopSense Demo](demo/gru.gif)
+![ShopSense Demo](demo/GRU.gif)
 
 ## Features
 
