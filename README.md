@@ -63,9 +63,7 @@ The model is trained with the following specifications:
 
 To train the model from scratch:
 
-```bash
-python train_model.py
-```
+Run the jupyter notebook and change anything as per your requirement
 
 ### Running the Web Application
 
