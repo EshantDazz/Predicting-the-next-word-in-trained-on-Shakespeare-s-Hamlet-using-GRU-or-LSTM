@@ -1,4 +1,4 @@
-# Next Word Prediction Using GRU Neural Network
+ # Next Word Prediction Using GRU Neural Network
 
 This project implements a next word prediction model using a Gated Recurrent Unit (GRU) neural network, trained on Shakespeare's "Hamlet". The model can predict the next word in a sequence based on the input text, demonstrating the application of deep learning in natural language processing.
 
